@@ -91,7 +91,7 @@ The structure above is illustrative; the files actually committed to the reposit
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/AymanAsaad27/multi-tool-autonomous-ai-agent>
 cd ai-agent-project
 ```
 
