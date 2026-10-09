@@ -95,8 +95,6 @@ git clone <https://github.com/AymanAsaad27/multi-tool-autonomous-ai-agent>
 cd ai-agent-project
 ```
 
-Replace the placeholder URL with your repository URL after publishing.
-
 ### 2. Create and activate a virtual environment
 
 On Windows PowerShell:
