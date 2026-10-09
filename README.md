@@ -237,5 +237,4 @@ These are results from the current development run, not a guarantee that every t
 - Add structured logging and clearer failure diagnostics.
 
 ## License
-
-A license has not yet been selected. Add a `LICENSE` file before distributing the project under an open-source license.
+MIT License. See [LICENSE](LICENSE).
