@@ -92,7 +92,7 @@ The structure above is illustrative; the files actually committed to the reposit
 
 ```bash
 git clone <https://github.com/AymanAsaad27/multi-tool-autonomous-ai-agent>
-cd ai-agent-project
+cd multi-tool-autonomous-ai-agent
 ```
 
 ### 2. Create and activate a virtual environment
